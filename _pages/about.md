@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-My name is Vlad. I build tools that solve problems at scale. My general interests include: systems programming, history, philosophy, and good burgers. 
-
-I started this blog to write about side projects and ramblings about general thoughts.
+My name is Vlad. I build tools that solve problems at scale. My general interests are systems programming, history, and philosophy. 
 
 You can contact me by [email](mailto:vladcmunteanu@gmail.com). 
 
